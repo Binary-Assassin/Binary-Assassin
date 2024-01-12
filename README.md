@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/mehdi_badami" target="blank"><img src="https://img.shields.io/twitter/follow/mehdi_badami?logo=twitter&style=for-the-badge" alt="mehdi_badami" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Binary-Assassin?tab=repositories](https://github.com/Binary-Assassin?tab=repositories)
+- 👨‍💻 All of my projects are available at [github](https://github.com/Binary-Assassin?tab=repositories)
 
 - 📫 How to reach me **alimehdibadami@gmail.com**
 
