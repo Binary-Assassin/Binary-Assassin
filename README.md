@@ -4,8 +4,10 @@
 [//]: <> (https://daringfireball.net/projects/markdown/syntax#html.)
 [//]: <> (This is also a comment github-stats.omsimos.com.)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Binary-Assassin&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" alt="Binary-Assassin's GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Binary-Assassin&theme=highcontrast&hide_border=true" alt="Binary-Assassin's GitHub Stats" /></p>
-
+<div id=stats align="left"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Binary-Assassin&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" alt="Binary-Assassin's GitHub Stats" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Binary-Assassin&theme=highcontrast&hide_border=true" alt="Binary-Assassin's GitHub Stats" />
+</div>
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
