@@ -8,6 +8,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Binary-Assassin&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" alt="Binary-Assassin's GitHub Stats" /> 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binary-Assassin&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" alt="Binary-Assassin's GitHub Stats" />
 </div>
+
+<div id=thmbadge align=center>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/BinaryAssassin.png" alt="Your Image Badge" />
+</div>
+
+
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
