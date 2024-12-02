@@ -66,3 +66,6 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" height="30">  
 </p>
 
+## Git Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Binary-Assassin&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
