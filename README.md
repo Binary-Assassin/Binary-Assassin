@@ -46,3 +46,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="sqlite" width="45" height=45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="45" height="45"/>
 </p>
+<p>
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="30">  
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=WordPress&logoColor=white" height="30">  
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white" height="30">  
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white" height="30">  
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" height="30">  
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" height="30">  
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" height="30">  
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white" height="30">  
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" height="30">  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" height="30">  
+<img src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=Windows%20Terminal&logoColor=white" height="30">  
+<img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" height="30">  
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white" height="30">  
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=white" height="30">  
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white" height="30">  
+<img src="https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=Sublime%20Text&logoColor=white" height="30">  
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" height="30">  
+</p>
+
