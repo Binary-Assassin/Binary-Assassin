@@ -11,21 +11,23 @@
 </div>
 
 <div id=thmbadge align=center>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/BinaryAssassin.png" alt="Your Image Badge" />
+  <a href="https://tryhackme.com/r/p/BinaryAssassin" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/BinaryAssassin.png" alt="Your Image Badge" />
+  </a>
 </div>
 
 
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/mehdi-badami/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="working_on_it">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://x.com/mehdi_badami" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-   <a href="your-medium-URL">
+   <a href="https://medium.com/@mehdi_badami" target="_blank">
     <img src="https://img.shields.io/badge/medium-black?style=for-the-badge&logo=Medium&logoColor=white" alt="medium Badge"/>
   </a>
 </div>
