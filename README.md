@@ -6,7 +6,6 @@
 [//]: <> (https://devicon.dev/)
 
 <div id=stats align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Binary-Assassin&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" alt="Binary-Assassin's GitHub Stats" /> 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binary-Assassin&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" alt="Binary-Assassin's GitHub Stats" />
 </div>
 
@@ -69,5 +68,5 @@
 </p>
 
 ## Git Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Binary-Assassin&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Binary-Assassin&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
