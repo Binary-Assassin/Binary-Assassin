@@ -1,7 +1,7 @@
 <h1 align="center"> BinaryAssassin </h1>
 
 <p align="left">
-  <img src="https://github.com/Binary-Assassin/Binary-Assassin/blob/main/Assets/mr_robot.jpg" width="320" align="left" style="margin-right: 20px; border-radius: 12px;">
+  <img src="https://github.com/Binary-Assassin/Binary-Assassin/blob/main/Assets/mr_robot.jpg" width="312" align="left" style="margin-right: 20px; border-radius: 12px;">
 </p>  
 
 <pre>
