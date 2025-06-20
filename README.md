@@ -1,7 +1,7 @@
 <h1 align="center"> BinaryAssassin </h1>
 
 <p align="left">
-  <img src="https://github.com/Binary-Assassin/Binary-Assassin/blob/main/Assets/mr_robot.jpg" width="300" align="left" style="margin-right: 20px; border-radius: 12px;">
+  <img src="https://github.com/Binary-Assassin/Binary-Assassin/blob/main/Assets/mr_robot.jpg" width="320" align="left" style="margin-right: 20px; border-radius: 12px;">
 </p>  
 
 <pre>
@@ -12,13 +12,14 @@ mehdi_badami
 ┌──(BinaryAssassin㉿Morphis)-[~]
 └─$ ./about_me.sh 
 Hello Friend...
-Cybersecurity | Malware Analysis | Ethical Hacker
+Pentester | Malware Analysis | Ethical Hacker
+> cracking vaults of knowledge... 💯
 
 ┌──(BinaryAssassin㉿Morphis)-[~]
-└─$ curl -s infecttest.io/status
+└─$ curl -s infecttest.io/status > output_file.txt
 </pre>
 
-<h3 align="left"> How To Reach... </h3>
+<h4 align="left"> How To Reach... </h4>
 
 <div id="badges" align="left">
   <a href="https://www.linkedin.com/in/mehdi-badami/" target="_blank">
