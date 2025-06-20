@@ -33,6 +33,7 @@ Cybersecurity | Malware Analysis | Ethical Hacker
    <a href="https://medium.com/@mehdi_badami" target="_blank">
     <img src="https://img.shields.io/badge/medium-black?style=for-the-badge&logo=Medium&logoColor=white" alt="medium Badge"/>
   </a>
+  <img align=right src="https://views-counter.vercel.app/badge?pageId=Binary-Assassin%2FViews-Counter" alt="Views Counter">
 </div>
 
 <div id=thmbadge align=left>
