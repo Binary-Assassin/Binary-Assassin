@@ -44,7 +44,7 @@ Cybersecurity | Malware Analysis | Ethical Hacker
 ## Git Stats 
 <div id=gitstats align="left"> 
   <img src="https://github-readme-stats.vercel.app/api?username=Binary-Assassin&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true" alt="Binary-Assassin's GitHub Stats" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binary-Assassin&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact" alt="Binary-Assassin's GitHub Stats" />
+ <img width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binary-Assassin&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact" alt="Binary-Assassin's GitHub Stats" />
 </div>
 
 
