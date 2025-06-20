@@ -1,6 +1,15 @@
 <h1 align="center"> BinaryAssassin </h1>
 
 
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/5e61690c-3cd5-4a43-84af-7c4592ec83bc" width="200" align="left" style="margin-right: 20px;">
+  <b>I'm Mehdi Badami a.k.a BinaryAssassin</b><br>
+  Cybersecurity, Malware Analysis, and Breaking Systems Ethically.<br>
+  Trying to make the internet just a little more paranoid.
+</p>
+
+
+
 [//]: <> (https://daringfireball.net/projects/markdown/syntax#html.)
 [//]: <> (This is also a comment github-stats.omsimos.com.)
 [//]: <> (https://devicon.dev/)
