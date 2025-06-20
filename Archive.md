@@ -3,7 +3,7 @@
 
 
 
-
+<img src="https://views-counter.vercel.app/badge?pageId=Binary-Assassin%2FViews-Counter" alt="Views Counter">
 
 
 
