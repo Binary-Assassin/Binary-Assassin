@@ -18,23 +18,25 @@ Cybersecurity | Malware Analysis | Ethical Hacker
 └─$ curl -s infecttest.io/status
 </pre>
 
-<h3 align="left"> Socials 💯</h3>
+<h3 align="left"> How To Reach... </h3>
 
 <div id="badges" align="left">
   <a href="https://www.linkedin.com/in/mehdi-badami/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+    <img src="https://github.com/CLorant/readme-social-icons/blob/main/medium/colored/linkedin.svg" alt="LinkedIn Badge" style="margin-right: 12px;" />
+  </a>&nbsp;&nbsp;
   <a href="working_on_it">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
+    <img src="https://github.com/CLorant/readme-social-icons/blob/main/medium/filled/youtube.svg" alt="Youtube Badge" style="margin-right: 12px;" />
+  </a>&nbsp;&nbsp;
   <a href="https://x.com/mehdi_badami" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-   <a href="https://medium.com/@mehdi_badami" target="_blank">
-    <img src="https://img.shields.io/badge/medium-black?style=for-the-badge&logo=Medium&logoColor=white" alt="medium Badge"/>
-  </a>
-  <img align=right src="https://views-counter.vercel.app/badge?pageId=Binary-Assassin%2FViews-Counter" alt="Views Counter">
+    <img src="https://github.com/CLorant/readme-social-icons/blob/main/medium/filled/twitter-x.svg" alt="Twitter Badge" style="margin-right: 12px;" />
+  </a>&nbsp;&nbsp;
+  <a href="https://medium.com/@mehdi_badami" target="_blank">
+    <img src="https://github.com/CLorant/readme-social-icons/blob/main/medium/light/medium.svg" alt="medium Badge" style="margin-right: 12px;" />
+  </a>&nbsp;&nbsp;
+
+  <img align="right" src="https://views-counter.vercel.app/badge?pageId=Binary-Assassin%2FViews-Counter" alt="Views Counter">
 </div>
+
 
 <div id=thmbadge align=left>
   <a href="https://tryhackme.com/r/p/BinaryAssassin" target="_blank">
