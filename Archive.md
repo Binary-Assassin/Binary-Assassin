@@ -5,6 +5,10 @@
 
 <img src="https://views-counter.vercel.app/badge?pageId=Binary-Assassin%2FViews-Counter" alt="Views Counter">
 
+<div id="profile" align=left>
+  <img align="center" src="https://komarev.com/ghpvc/?username=Binary-Assassin&style=flat-square&color=blue" alt="profile views"/>
+</div>
+
 
 
 
@@ -65,9 +69,6 @@ Cybersecurity | Malware Analysis | Ethical Hacker
 
 
 
-<div id="profile" align=left>
-  <img align="center" src="https://komarev.com/ghpvc/?username=Binary-Assassin&style=flat-square&color=blue" alt="profile views"/>
-</div>
 
 <h3 align="left">Languages and Tools:</h3>
 
