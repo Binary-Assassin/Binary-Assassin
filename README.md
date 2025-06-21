@@ -45,6 +45,10 @@ Pentester | Malware Analysis | Ethical Hacker
   </a>
 </div>
 
+
+## Techstack 
+
+
 ## Git Stats 
 <div id=gitstats align="left"> 
   <img src="https://github-readme-stats.vercel.app/api?username=Binary-Assassin&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true" alt="Binary-Assassin's GitHub Stats" />
