@@ -111,5 +111,62 @@ Cybersecurity | Malware Analysis | Ethical Hacker
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" height="30">  
 </p>
 
+---
+
+## Techstack
+
+**Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Assembly](https://img.shields.io/badge/ASM%20(Irvine32)-gray?style=for-the-badge)
+
+
+
+**Pentesting Tools:**  
+*Web Pentesting:*  
+<!-- Add your web pentesting tools here, e.g.: -->  
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF7139?style=for-the-badge)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-1A1A1A?style=for-the-badge)
+![SQLmap](https://img.shields.io/badge/SQLmap-4B4B4B?style=for-the-badge)
+
+*Network Pentesting:*  
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-3e7bb6?style=for-the-badge)
+
+---
+
+**DevSecOps:**  
+Docker, SonarQube, Jenkins, CI/CD pipeline tools, Container Security, and more  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Container Security](https://img.shields.io/badge/Container%20Security-008080?style=for-the-badge)
+
+---
+
+**Database:**  
+MongoDB, SQLite3, Oracle SQL  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite3](https://img.shields.io/badge/SQLite3-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+---
+
+**Operating Systems:**  
+Ubuntu, Kali Linux, Arch, Parrot OS  
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![Parrot OS](https://img.shields.io/badge/Parrot%20OS-1dd5af?style=for-the-badge)
+
+---
+
 ## Git Trophies
   [![trophy](https://github-profile-trophy.vercel.app/?username=Binary-Assassin&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
