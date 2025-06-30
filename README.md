@@ -70,6 +70,10 @@ Pentester | Malware Analysis | Ethical Hacker
 ![OpenVAS](https://img.shields.io/badge/OpenVAS-339966?style=for-the-badge&logo=https://yourdomain.com/openvas.svg&logoColor=white)
 ![Nikto](https://img.shields.io/badge/Nikto-800000?style=for-the-badge&logo=gnometerminal&logoColor=white)
 
+<!-- Add your devsecops tools here, e.g.: -->  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 <!--  code editors overthere, e.g.: -->  
 ![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white)
