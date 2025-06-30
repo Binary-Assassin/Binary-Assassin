@@ -59,16 +59,21 @@ Pentester | Malware Analysis | Ethical Hacker
 
  
 <!-- Add your web pentesting tools here, e.g.: -->  
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF7139?style=for-the-badge)
-![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-1A1A1A?style=for-the-badge)
+![BurpSuite](https://img.shields.io/badge/Burp%20Suite-FF7139?style=for-the-badge&logo=burpsuite&logoColor=white)
+![ZAP](https://img.shields.io/badge/ZAP-00549E?style=for-the-badge&logo=zap)
 ![SQLmap](https://img.shields.io/badge/SQLmap-4B4B4B?style=for-the-badge)
 
 <!-- Add your web pentesting tools here, e.g.: -->  
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=https://raw.githubusercontent.com/Binary-Assassin/Binary-Assassin/Assets/nmap-logo-64px.svg&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-3e7bb6?style=for-the-badge&logo=gnometerminal&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-3e7bb6?style=for-the-badge&logo=metasploit&logoColor=white)
 ![OpenVAS](https://img.shields.io/badge/OpenVAS-339966?style=for-the-badge&logo=https://yourdomain.com/openvas.svg&logoColor=white)
 ![Nikto](https://img.shields.io/badge/Nikto-800000?style=for-the-badge&logo=gnometerminal&logoColor=white)
+
+
+<!--  code editors overthere, e.g.: -->  
+![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white)
+![kali](https://img.shields.io/badge/kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 
 ## Git Stats 
