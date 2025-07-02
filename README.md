@@ -8,7 +8,7 @@
 ┌──(BinaryAssassin㉿Morphis)-[~]
 └─$ whoami
 mehdi_badami
-
+bur
 ┌──(BinaryAssassin㉿Morphis)-[~]
 └─$ ./about_me.sh 
 Hello Friend...
@@ -59,7 +59,7 @@ Pentester | Malware Analysis | Ethical Hacker
 
  
 <!-- Add your web pentesting tools here, e.g.: -->  
-![BurpSuite](https://img.shields.io/badge/Burp%20Suite-FF7139?style=for-the-badge&logo=burpsuite&logoColor=white)
+![BurpSuite](https://img.shields.io/badge/Burp-FF7139?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![ZAP](https://img.shields.io/badge/ZAP-00549E?style=for-the-badge&logo=zap)
 ![SQLmap](https://img.shields.io/badge/SQLmap-4B4B4B?style=for-the-badge)
 
