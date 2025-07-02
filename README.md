@@ -53,8 +53,8 @@ Pentester | Malware Analysis | Ethical Hacker
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Assembly](https://img.shields.io/badge/ASM%20(Irvine32)-gray?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![ASM Irvine32](https://img.shields.io/badge/ASM-Irvine32-blueviolet?style=for-the-badge)
 
 
  
