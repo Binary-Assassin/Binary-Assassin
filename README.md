@@ -8,7 +8,7 @@
 ┌──(BinaryAssassin㉿Morphis)-[~]
 └─$ whoami
 mehdi_badami
-bur
+
 ┌──(BinaryAssassin㉿Morphis)-[~]
 └─$ ./about_me.sh 
 Hello Friend...
