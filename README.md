@@ -12,7 +12,7 @@ mehdi_badami
 ┌──(BinaryAssassin㉿Morphis)-[~]
 └─$ ./about_me.sh 
 Hello Friend...
-Pentester | Malware Analysis | Ethical Hacker
+Pentester | Malware Analysis | EH
 > cracking vaults of knowledge... 💯
 
 ┌──(BinaryAssassin㉿Morphis)-[~]
