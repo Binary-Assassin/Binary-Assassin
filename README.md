@@ -86,6 +86,6 @@ Pentester | Malware Analysis | EH
  <img width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binary-Assassin&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact" alt="Binary-Assassin's GitHub Stats" />
 </div>
 
-<!--
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Binary-Assassin&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
--->
+
