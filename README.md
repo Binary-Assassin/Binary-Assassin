@@ -16,7 +16,7 @@ Pentester | Malware Analysis | EH
 > cracking vaults of knowledge... 💯
 
 ┌──(BinaryAssassin㉿Morphis)-[~]
-└─$ curl -s infecttest.io/status > report.txt
+└─$ curl -s infecttest.io/status > under_development.txt
 </pre>
 
 <h3 align="left"> How To Reach... </h3>
